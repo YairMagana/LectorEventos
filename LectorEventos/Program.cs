@@ -56,7 +56,7 @@ namespace LectorEventos
 
             if ((dt - ahora).TotalSeconds > 0)
             {
-                if ((dt - ahora).TotalDays > 30)
+                if ((dt - ahora).TotalDays >= 30)
                 {
                     v = " ocurrira en " + Math.Floor(Math.Abs(((dt - ahora).TotalDays / 30))).ToString() + " meses";
                 }
@@ -65,12 +65,12 @@ namespace LectorEventos
                     v = " ocurrira en " + Math.Floor(Math.Abs((dt - ahora).TotalDays)).ToString() + " dias";
                 }
                 if ((dt - ahora).TotalDays < 1)
-                    v = " ocurrira en " + Math.Floor(Math.Abs((dt - ahora).TotalHours)).ToString() + " horas";
+                    v = " ocurrira en " + Math.Ceiling(Math.Abs((dt - ahora).TotalHours)).ToString() + " horas";
                 if ((dt - ahora).TotalHours < 1)
-                    v = " ocurrira en " + Math.Floor(Math.Abs((dt - ahora).TotalMinutes)).ToString() + " minutos";
+                    v = " ocurrira en " + Math.Ceiling(Math.Abs((dt - ahora).TotalMinutes)).ToString() + " minutos";
             } else
             {
-                if ((ahora - dt).TotalDays > 30)
+                if ((ahora - dt).TotalDays >= 30)
                 {
                     v = " ocurrio hace " + Math.Floor(Math.Abs(((dt - ahora).TotalDays / 30))).ToString() + " meses";
                 }
