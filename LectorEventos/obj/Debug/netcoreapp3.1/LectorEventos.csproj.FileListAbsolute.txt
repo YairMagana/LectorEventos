@@ -1,0 +1,11 @@
+C:\Users\yair.magana\source\repos\LectorEventos\LectorEventos\bin\Debug\netcoreapp3.1\LectorEventos.exe
+C:\Users\yair.magana\source\repos\LectorEventos\LectorEventos\bin\Debug\netcoreapp3.1\LectorEventos.deps.json
+C:\Users\yair.magana\source\repos\LectorEventos\LectorEventos\bin\Debug\netcoreapp3.1\LectorEventos.runtimeconfig.json
+C:\Users\yair.magana\source\repos\LectorEventos\LectorEventos\bin\Debug\netcoreapp3.1\LectorEventos.runtimeconfig.dev.json
+C:\Users\yair.magana\source\repos\LectorEventos\LectorEventos\bin\Debug\netcoreapp3.1\LectorEventos.dll
+C:\Users\yair.magana\source\repos\LectorEventos\LectorEventos\bin\Debug\netcoreapp3.1\LectorEventos.pdb
+C:\Users\yair.magana\source\repos\LectorEventos\LectorEventos\obj\Debug\netcoreapp3.1\LectorEventos.csprojAssemblyReference.cache
+C:\Users\yair.magana\source\repos\LectorEventos\LectorEventos\obj\Debug\netcoreapp3.1\LectorEventos.AssemblyInfoInputs.cache
+C:\Users\yair.magana\source\repos\LectorEventos\LectorEventos\obj\Debug\netcoreapp3.1\LectorEventos.AssemblyInfo.cs
+C:\Users\yair.magana\source\repos\LectorEventos\LectorEventos\obj\Debug\netcoreapp3.1\LectorEventos.dll
+C:\Users\yair.magana\source\repos\LectorEventos\LectorEventos\obj\Debug\netcoreapp3.1\LectorEventos.pdb
